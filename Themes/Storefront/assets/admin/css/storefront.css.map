@@ -1,0 +1,1 @@
+{"version":3,"file":"Themes/Storefront/assets/admin/css/storefront.css","mappings":"AAAA,iBACI,gBACA,kBACJ,C","sources":["webpack://fleetcart/./Themes/Storefront/resources/assets/admin/sass/main.scss"],"sourcesContent":["h4.section-title {\r\n    font-weight: 500;\r\n    margin-bottom: 10px;\r\n}\r\n"],"names":[],"sourceRoot":""}

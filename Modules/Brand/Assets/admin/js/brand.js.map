@@ -1,0 +1,1 @@
+{"version":3,"file":"/Modules/Brand/Assets/admin/js/brand.js","mappings":"AAAAA,OAAOC,MAAMC,2BAA2B","sources":["webpack://fleetcart/./Modules/Brand/Resources/assets/admin/js/main.js"],"sourcesContent":["window.admin.removeSubmitButtonOffsetOn('#images');\r\n"],"names":["window","admin","removeSubmitButtonOffsetOn"],"sourceRoot":""}
